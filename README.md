@@ -17,6 +17,7 @@ This project is a **custom URL Shortener** that allows users to:
 - View analytics and usage charts.
 - Share links via WhatsApp, Twitter, and LinkedIn.
 - Experience a modern, responsive, and theme-toggle enabled interface.
+- Project URL- https://github.com/Devanshuk29/URL-Shortener
 ## ✨ Features
 
 ### 🔗 Core Functionalities
